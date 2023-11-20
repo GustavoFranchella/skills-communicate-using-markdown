@@ -1,5 +1,10 @@
 # EITN Header
 
+- [x] Step 1 done
+- [x] Step 2 done
+- [x] Step 3 done
+- [ ] Step 4 in progress
+
 ``` javascript
 const myVar = "Hello, Blade Runner!";
 ```
